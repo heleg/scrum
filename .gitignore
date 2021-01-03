@@ -1,0 +1,9 @@
+dist
+node_modules
+.parcel-cache
+.env
+yarn-error.log
+
+packages/back/schema.gql
+docker/mongo
+
